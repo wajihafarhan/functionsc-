@@ -1,0 +1,14 @@
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\bin\Debug\net6.0\functionsc#.exe
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\bin\Debug\net6.0\functionsc#.deps.json
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\bin\Debug\net6.0\functionsc#.runtimeconfig.json
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\bin\Debug\net6.0\functionsc#.dll
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\bin\Debug\net6.0\functionsc#.pdb
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\obj\Debug\net6.0\functionsc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\obj\Debug\net6.0\functionsc#.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\obj\Debug\net6.0\functionsc#.AssemblyInfo.cs
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\obj\Debug\net6.0\functionsc#.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\obj\Debug\net6.0\functionsc#.dll
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\obj\Debug\net6.0\refint\functionsc#.dll
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\obj\Debug\net6.0\functionsc#.pdb
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\obj\Debug\net6.0\functionsc#.genruntimeconfig.cache
+C:\Users\asp\Desktop\waasi\functionsc#\functionsc#\obj\Debug\net6.0\ref\functionsc#.dll
