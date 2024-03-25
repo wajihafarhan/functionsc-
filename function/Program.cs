@@ -59,7 +59,10 @@
             //    var result = Program.Person_Details("wajiha", "nadeem", 27);
             //    Console.WriteLine(result);
             //}
-
+  Child_class child = new();
+  Child_class2 child2 = new();
+  child.Displayinfo();
+  child2.Displayinfo();
         }
     }
 }
